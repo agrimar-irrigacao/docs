@@ -48,6 +48,10 @@ const sidebars = {
     },
     {
       type: 'doc',
+      id: 'publicacoes',
+    },      
+    {
+      type: 'doc',
       id: 'privacy-policy',
     },      
     {
