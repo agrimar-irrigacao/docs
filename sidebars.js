@@ -22,109 +22,30 @@ const sidebars = {
     },      
     {
       type: 'category',
-      label: 'Utilizando o Bohr',
+      label: 'Menu do Irrifert',
       items: [
         {
           type: 'doc',
-          id: 'importacao',
+          id: 'minha-conta',
         },
         {
-          type: 'category',
-          label: 'Templates',
-          items: [
-            {
-              type: 'doc',
-              id: 'Templates/default-templates',
-            },
-            {
-              type: 'doc',
-              id: 'Templates/dashboard-template',
-            },
-            {
-              type: 'doc',
-              id: 'Templates/gatsby-template',
-            },
-            {
-              type: 'doc',
-              id: 'Templates/portfolio-template',
-            },
-          ],
-        },        
+          type: 'doc',
+          id: 'simulador',
+        },
         {
-          type: 'category',
-          label: 'Frameworks',
-          items: [
-            {
-              type: 'doc',
-              id: 'Frameworks/nextjs',
-            },
-            
-          ],
-        },        
-      ],
+          type: 'doc',
+          id: 'sistema-producao',
+        },
+        {
+          type: 'doc',
+          id: 'sistema-irrigacao',
+        },
+        {
+          type: 'doc',
+          id: 'sistema-fertirrigacao',
+        },
+      ]
     },
-    {
-      type: 'category',
-      label: 'Configurações do Projeto',
-      items: [
-        {
-          type: 'doc',
-          id: 'project-settings',
-        },
-        {
-          type: 'doc',
-          id: 'variaveis-de-ambiente',
-        },
-        {
-          type: 'doc',
-          id: 'versao-node-js',
-        },
-        {
-          type: 'doc',
-          id: 'autenticacao',
-        },             
-        {
-          type: 'doc',
-          id: 'preview-deploys',
-        },
-        {
-          type: 'doc',
-          id: 'localhost',
-        },          
-
-        {
-          type: 'doc',
-          id: 'logs',
-        },
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Domínios',
-      items: [
-        {
-          type: 'doc',
-          label: 'Domínios',
-          id: 'domains',
-        },   
-        {
-          type: 'doc',
-          id: 'dominios-disponiveis',
-        },
-      ],
-    },
-    {
-      type: 'doc',
-      id: 'CLI',
-    },           
-    {
-      type: 'doc',
-      id: 'pnpm-support',
-    },      
-    {
-      type: 'doc',
-      id: 'fair-use-policy',
-    },      
     {
       type: 'doc',
       id: 'privacy-policy',
@@ -133,7 +54,6 @@ const sidebars = {
       type: 'doc',
       id: 'terms-of-use',
     },      
-   
   ],
 };
 

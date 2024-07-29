@@ -4,173 +4,111 @@ sidebar_position: 29
 
 # Termos de Serviço
 
-Por favor, reveja cuidadosamente estes Termos de Serviço ("Termos") antes de utilizar os sites e aplicativos da bohr.io (o "Serviço") operados pela bohr.io, Inc. ("bohr.io", "nós" ou "nosso").
+A **Agrimar Produtos e Máquinas Agrícolas Rizzi & Cia Ltda.** ("Agrimar"), em parceria com a **Empresa Brasileira de Pesquisa Agropecuária** ("Embrapa") criaram estes Termos de Uso ("Termos") do Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã ("Aplicativo") para determinar todas as condições e regras para a utilização do aplicativo por elas desenvolvido que visa apresentar sugestão do momento de irrigar e o tempo necessário para aplicar a quantidade necessária à cultura da macieira, bem como as quantidades necessárias de nutrientes e a seleção de fertilizantes, conforme as necessidades estabelecidas para cada fase do desenvolvimento vegetativo das plantas de macieira. Estes Termos, juntamente com a Política de Privacidade, integram, em conjunto, o Contrato ("Contrato"), celebrado entre o Usuário e a Agrimar, inscrita no CNPJ sob o nº 88.662.838/0001-91, com sede na Avenida Rubem Bento Alves, nº 751, bairro Interlagos, na cidade de Caxias do Sul, estado do Rio Grande do Sul, CEP 95055-097 ("Agrimar"), por meio do acesso às aplicações do aplicativo e website "www.agrimar.com.br" e ao cadastro no Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã.
 
-Sua capacidade de acessar e utilizar o Serviço está condicionada à sua aceitação e aderência a estes Termos. Estes Termos são aplicáveis a todas as pessoas, usuários e outras partes que desejam acessar ou utilizar o Serviço.
+**AO UTILIZAR AS PLATAFORMAS, VOCÊ ("USUÁRIO") AUTOMATICAMENTE CONCORDA COM TODAS AS REGRAS DESTES TERMOS DE USO E DEMAIS CONDIÇÕES AQUI MENCIONADAS, RESPONSABILIZANDO-SE INTEGRALMENTE POR TODOS E QUAISQUER ATOS PRATICADOS COM O APLICATIVO IRRIFERT IRRIGAÇÃO/FERTIRRIGAÇÃO MAÇÃ, BEM COMO PELAS CONSEQUÊNCIAS RELACIONADAS AO SEU USO. CASO VOCÊ NÃO CONCORDE COM QUALQUER DOS TERMOS E CONDIÇÕES ABAIXO ESTABELECIDOS, VOCÊ NÃO DEVE UTILIZAR O APLICATIVO IRRIFERT IRRIGAÇÃO/FERTIRRIGAÇÃO MAÇÃ OU CADASTRAR-SE NO APLICATIVO IRRIFERT IRRIGAÇÃO/FERTIRRIGAÇÃO MAÇÃ.**
 
-Ao acessar ou utilizar o Serviço, você indica sua concordância em se vincular a estes Termos. Além disso, você reconhece concordar em cumprir nossa Política de Privacidade localizada em bohr.io/privacy, que está incorporada por referência. Se você discordar de qualquer aspecto destes Termos, não está autorizado a acessar ou usar o Serviço.
+## 1. O QUE O APLICATIVO IRRIFERT IRRIGAÇÃO/FERTIRRIGAÇÃO MAÇÃ OFERECE
 
-## O Serviço
-Nosso Serviço oferece aos usuários uma plataforma hospedada e uma comunidade colaborativa para se envolver em codificação, desenvolvimento, compartilhamento e implantação de software e servidores web.
+**1.1. Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã.** O Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã permite que o Usuário se cadastre e usufrua de todos os benefícios que o Aplicativo oferece relativo a obter sugestões do momento de irrigar e o tempo necessário para aplicar a quantidade necessária à cultura da macieira, bem como as quantidades necessárias de nutrientes e a seleção de fertilizantes, sempre de acordo com as regras dos Termos de Uso e Política de Privacidade, os quais sempre apresentados com o Aplicativo em sua última versão e em vigência. Como condicionante ao uso do Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã, o Usuário declara ter lido, entendido e estar de acordo ao aceitar estes Termos de Uso.
 
-## Consentimento do usuário para uso adequado do serviço
-Sua utilização do Serviço é regida pelas restrições de uso e conteúdo delineadas nestes Termos. No caso de você ser identificado como contrariando estes Termos ou qualquer uma de nossas políticas adicionais, em qualquer momento, conforme determinado exclusivamente pela bohr.io, reservamos o direito de emitir um aviso, suspender ou encerrar sua conta.
+**1.2.** Para se cadastrar no Aplicativo e utilizar todas as suas funcionalidades, além da aceitação destes Termos de Uso e dos Regulamentos vigentes, o Usuário deve aceitar também a Política de Privacidade do Aplicativo, disponíveis nas Plataformas. É DEVER DO USUÁRIO ESTAR ATENTO ÀS REGRAS DESTES TERMOS DE USO E DA POLÍTICA DE PRIVACIDADE DO APLICATIVO IRRIFERT IRRIGAÇÃO/FERTIRRIGAÇÃO MAÇÃ.
 
-## Atividades proibidas
-Ao utilizar os Serviços, você está estritamente proibido de se envolver ou permitir que qualquer terceiro, incluindo seus usuários finais, se envolva nas seguintes ações:
+## 2. CADASTRO E USO DO APLICATIVO IRRIFERT IRRIGAÇÃO/FERTIRRIGAÇÃO MAÇÃ
 
-- Enviar, fazer upload, distribuir ou oferecer para disseminar qualquer conteúdo que seja ilegal, difamatório, hostil, abusivo, fraudulento, infrator, obsceno ou de outra forma objetável;
-- Distribuir deliberadamente vírus, worms, defeitos, cavalos de Troia, arquivos corrompidos, boatos ou quaisquer outros itens com intenção maliciosa ou enganosa;
-- Participar de esquemas de pirâmide ou atividades similares;
-- Transmitir conteúdo que possa ser prejudicial a menores de idade;
-- Fingir ser outra pessoa (via e-mail ou qualquer outro meio) ou se representar de forma falsa ou a origem de qualquer e-mail;
-- Criar contas por meio de automação ou registrar contas em massa sem consentimento prévio por escrito da bohr.io;
-- Transmitir ilegalmente propriedade intelectual ou informações proprietárias de outra parte sem permissão explícita do proprietário ou licenciante;
-- Utilizar o Serviço para infringir os direitos legais (como direitos de privacidade e publicidade) de outras pessoas;
-- Promover ou incentivar ações ilegais;
-- Utilizar o Serviço de qualquer maneira que apoie ou facilite tráfico humano, tráfico sexual ou abuso físico;
-- Interferir ou perturbar os Serviços ou impor uma carga excessiva na infraestrutura da bohr.io ou nas redes e serviços a ela conectados;
-- Usar o Serviço para lançar ataques ou interferir em outros sites, serviços ou indivíduos;
-- Realizar testes extensivos de carga sem obter consentimento por escrito da bohr.io, pois isso pode ser interpretado como um ataque de negação de serviço;
-- Implantar sistemas automatizados, incluindo - mas não se limitando a - "robôs", "spiders" ou "leitores offline", para acessar o Serviço de maneira que exceda o volume razoável de solicitações que um ser humano poderia gerar usando um navegador web online convencional em um determinado período de tempo. Exceções podem ser concedidas a operadores de mecanismos de busca públicos para a criação de índices pesquisáveis, sujeitos à discrição da bohr.io. No entanto, a coleta de informações pessoalmente identificáveis ou a solicitação comercial por meio dos sistemas de comunicação do Serviço são estritamente proibidas. Os usuários não têm permissão para solicitar o conteúdo de outros usuários para fins comerciais. <!--É concedido consentimento específico para o uso comercial e não comercial de incorporações padrão em sites e aplicativos, conforme delineado neste link: https://docs.bohr.io/hosting/embedding-repls; --> 
-- Alugar, arrendar, emprestar, vender acesso ou tentar transferir quaisquer direitos ao site da bohr.io (incluindo seu software e documentação) para terceiros, por meio de enquadramento ou qualquer outro método;
-- Alterar, adaptar, traduzir ou engenharia reversa de qualquer parte do Serviço. Isso inclui práticas como "raspagem de tela", "raspagem de banco de dados" ou qualquer atividade destinada a extrair listas de usuários, partes de bancos de dados, visuais, métodos comerciais ou outras informações do Serviço, além do que é autorizado por escrito pela bohr.io ou para fins competitivos;
-- Remover quaisquer avisos de direitos autorais, marcas registradas ou direitos de propriedade presentes no Serviço;
-- Reformatar ou enquadrar qualquer seção das páginas de exibição administrativa do Serviço;
-- Utilizar o Serviço para mineração de criptomoedas, como "mineração" de bitcoins ou outras criptomoedas, ou Cycles;
-- Exibir conteúdo relacionado ao ódio ou violência ou promover materiais, produtos ou serviços que violem ou incentivem a conduta em contravenção das leis criminais, outras leis aplicáveis ou direitos de terceiros;
-- Alterar o logotipo da bohr.io ou as marcas da bohr.io;
-- Enviar mensagens não solicitadas ou usar o Serviço para transmitir mensagens não solicitadas (comumente referidas como spam);
-- Clonar repetidamente projetos para executar ou hospedar código idêntico, causando carga indevida no Serviço;
-- Criar um proxy por meio do Serviço com a intenção de contornar qualquer firewall ou medidas de controle de acesso;
-- Participar de ataques destinados a extrair ou roubar modelos de aprendizado de máquina treinados utilizados pela bohr.io ou por seus provedores de serviços terceirizados.
+**2.1.** O Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã funciona mediante conexão à internet e o seu acesso é gratuito, permitindo a todo e qualquer Usuário que preencher os requisitos mínimos descritos nestes Termos de Uso e na Política de Privacidade possa testar sua funcionalidade por tempo limitado e funcionalidades limitadas. O Usuário poderá utilizar o Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã, com tempo de uso limitado e com as funcionalidades limitadas do Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã, mediante a realização de um cadastro.
 
-## Conteúdo restrito
-Você está proibido de fazer upload ou transmitir qualquer uma das seguintes formas de Conteúdo do Usuário (conforme definido abaixo) por meio do Serviço:
+**2.2.** O uso de todas as funcionalidades relacionadas a obter sugestões do momento de irrigar e o tempo necessário para aplicar a quantidade necessária à cultura da macieira, bem como as quantidades necessárias de nutrientes e a seleção de fertilizantes não é gratuíto, devendo o Usuário optar pela aquisição da licença anual de uso apresentados no próprio Aplicativo. O Usuário poderá utilizar o Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã, mediante a aquisição da licença anual de uso.
 
-- Conteúdo do Usuário que viola os direitos de terceiros (por exemplo, direitos autorais) de acordo com as leis relevantes;
-- Conteúdo do Usuário excessivamente ofensivo;
-- Conteúdo do Usuário que promove ódio ou violência;
-- Conteúdo do Usuário que endossa a intolerância racial ou étnica;
-- Conteúdo do Usuário com o objetivo de defender ou promover invasões ou quebras de segurança de computadores;
-- Outras atividades ilícitas, incluindo, mas não se limitando à exportação ilegal de substâncias controladas ou software ilegal;
-- Itens relacionados a utensílios para uso de drogas;
-- Conteúdo relacionado a _phishing_;
-- Conteúdo malicioso do usuário;
-- Outros materiais, produtos ou serviços que violem ou incentivem condutas que violem leis criminais, outras leis aplicáveis ou os direitos de terceiros;
-- Nudez e conteúdo ou atividades sexualmente explícitas, incluindo pornografia e venda de serviços sexuais;
-- Conteúdo que apoia ou facilita suicídio ou autoagressão, incluindo instruções ou representações gráficas de tais atos;
-- Conteúdo associado a jogos de azar, como jogos de cartas, roleta ou dados jogados por dinheiro, Cycles ou qualquer outra forma de valor.
+**2.3.** O Usuário que optar por realizar o cadastro no Aplicativo deve ser maior de 18 (dezoito) anos de idade, ter plena capacidade legal e deverá fornecer voluntariamente informações sobre si, por meio do preenchimento de dados nos campos solicitados pelo Aplicativo como, por exemplo, nome, sobrenome, e-mail (que será usado como login) e senha (https://agrimar.com.br/política_de_privacidade). A senha criada pelo Usuário deverá cumprir as regras de segurança informadas nas Plataformas no momento de sua criação.
 
-## Quotas de uso e restrições 
-A bohr.io impõe limites e restrições específicas ao uso de seu serviço. Esses limites incluem tanto limites rígidos quanto limites flexíveis. Limites rígidos são automaticamente aplicados pelo Serviço, enquanto limites flexíveis englobam recursos consumíveis que você se compromete a não ultrapassar.
-Informações detalhadas sobre esses limites podem ser encontradas em https://bohr.io/#pricing e podem ser revisadas periodicamente. Períodos prolongados de inatividade podem levar à categorização de sua conta ou uso do Serviço como inativo.
+**2.4.** O Usuário declara que as informações e os dados pessoais fornecidos no momento do cadastro são corretas, completas e verdadeiras, sob penas da lei e compromete-se a manter seus dados sempre atualizados. A atualização de seus dados cadastrais pode ser feita pelo Usuário mesmo dentro das Plataformas da Agrimar. A Agrimar não é responsável pelas informações prestadas pelo Usuário, mas reserva o direito de verificar, a qualquer momento, a veracidade de tais informações e solicitar, a seu exclusivo critério, a documentação suporte que julgar necessária para a devida comprovação das informações pessoais prestadas. É proibido assumir intencionalmente a personalidade de outra pessoa.
 
-## Sua interação com o Conteúdo do Serviço
-Além das limitações gerais mencionadas acima, as seguintes restrições e disposições se aplicam especificamente à sua interação com o conteúdo acessível por meio do Serviço, incluindo marcas registradas, marcas de serviço e logotipos ("Marcas") apresentados no Serviço, coletivamente referidos como "Conteúdo do Serviço".
+**2.5.** Para entender como a Agrimar trata os seus dados pessoais, incluindo, mas não se limitando, a coleta, o uso, o armazenamento, o compartilhamento, a segurança e o controle dos dados pessoais, o Usuário deve consultar a Política de Privacidade da Agrimar, disponível nas Plataformas.
 
-A propriedade ou licenciamento do Conteúdo do Serviço pertence à bohr.io ou a outras entidades e é protegida por direitos autorais e outros direitos de propriedade intelectual conforme estabelecido pela lei. O Conteúdo do Serviço é fornecido a você "como está". Você pode acessar o Conteúdo do Serviço exclusivamente para uso informativo e pessoal em conformidade com estes Termos. Você não está autorizado a baixar nenhum Conteúdo do Serviço a menos que um link de download ou equivalente seja apresentado pela bohr.io para aquele Conteúdo do Serviço em particular.
+**2.6.** Após a aquisição da licença anual de uso do Aplicativo, o Usuário receberá um e-mail da Agrimar de boas-vindas, indicando a confirmação de sua licença anual, especificando o(s) pomar(es), quadra(s) e setor(es) com licença para uso do Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã.
 
-Exceto conforme delineado na seção "Conteúdo de Código Aberto e Gerado pelo Usuário" abaixo, você deve se abster de copiar, replicar, distribuir, transmitir, exibir, vender, licenciar ou de outra forma explorar qualquer Conteúdo do Serviço para fins alternativos sem o consentimento prévio por escrito da bohr.io ou dos licenciadores relevantes desse Conteúdo do Serviço. A bohr.io e seus licenciadores retêm todos os direitos não concedidos explicitamente em relação ao Serviço e ao Conteúdo do Serviço.
+**2.7.** A partir do cadastro, o Usuário será titular de uma conta pessoal que somente poderá ser acessada pelo próprio Usuário (“Conta”), mediante o seu e-mail e a senha criada no momento do cadastro. Caso a Agrimar detecte alguma conta feita a partir de informações e dados pessoais falsos, o cadastro do Usuário nas Plataformas da Agrimar será cancelado, de forma que o Usuário será excluído do Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã, impossibilitando o seu acesso e sujeitando-se a todas as consequências previstas no Regulamento. Nessa hipótese, o Usuário não terá qualquer direito de ressarcimento ou indenização. Ainda, caso seja verificada a duplicidade de contas em seu nome, a Agrimar poderá inabilitar de forma definitiva todos os cadastros duplicados, independentemente do envio de qualquer notificação prévia ao Usuário.
 
-Você se compromete a não ignorar, desativar ou interferir de outra forma com recursos de segurança do Serviço ou recursos que dificultem ou limitem a utilização ou duplicação de qualquer Conteúdo do Serviço ou imponham restrições ao uso do Serviço ou Conteúdo do Serviço. Ao usar o Serviço, você reconhece que encontrará Conteúdo do Serviço de diversas fontes e a bohr.io não é responsável pela precisão, utilidade, segurança ou direitos de propriedade intelectual associados a tal Conteúdo do Serviço. Além disso, você reconhece que pode encontrar Conteúdo do Serviço que é incorreto, ofensivo, inadequado ou objetável.
+**2.8.** O Usuário é o único responsável por todas as atividades associadas à sua Conta no Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã. O login e a senha de acesso à Conta são credenciais de uso pessoal e intransferível e é dever do Usuário proteger e manter em sigilo da sua senha de acesso ao Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã, não devendo, em hipótese alguma, compartilhá-la com terceiros. A Agrimar não se responsabiliza por atos praticados por terceiros que venham a utilizar a Conta do Usuário por meio do uso indevido de login e senha de acesso. O Usuário compromete-se a notificar a Agrimar, imediatamente, caso tenha conhecimento do uso não autorizado de sua Conta.
 
-## Conteúdo Gerado pelo Usuário
-Através do nosso Serviço, você tem a capacidade de publicar, vincular, armazenar, compartilhar e disponibilizar de outras formas diversos tipos de informações, códigos, textos, gráficos, vídeos ou outros materiais ("Conteúdo Gerado pelo Usuário"). Uma vez que nosso Serviço engloba um editor de código e um gerenciador de arquivos para o upload de Conteúdo Gerado pelo Usuário, você tem controle total sobre a natureza e o tipo de conteúdo que você faz upload. 
+**2.8.1.** Caso o Usuário esqueça sua senha e precise recuperá-la, o Usuário poderá solicitar a criação de uma nova senha por meio das Plataformas da Agrimar. A Agrimar enviará uma mensagem para o e-mail indicado pelo Usuário no seu cadastro, que conterá um código, o qual deverá ser informado pelo Usuário nas Plataformas da Agrimar para que uma nova senha seja criada. A nova senha deverá respeitar as regras de segurança da Agrimar.
 
-Consequentemente, você (e não a bohr.io) é responsável pelo Conteúdo Gerado pelo Usuário que você posta no Serviço, incluindo sua legalidade, confiabilidade e adequação.
-Ao postar ou gerar Conteúdo Gerado pelo Usuário no Serviço, você afirma e garante que: (i) a menos que estipulado na seção "Conteúdo de Código Aberto e Conteúdo do Usuário" abaixo, o Conteúdo Gerado pelo Usuário pertence a você (você é o legítimo proprietário) e/ou você possui os direitos necessários para utilizá-lo, juntamente com a autoridade para nos conceder os direitos e a licença descritos nestes Termos, e (ii) o ato de postar seu Conteúdo Gerado pelo Usuário no Serviço não viola os direitos de privacidade, direitos de publicidade, direitos autorais, direitos contratuais, direitos de propriedade intelectual ou quaisquer outros direitos de qualquer indivíduo ou entidade. Reservamos o direito de encerrar a conta de qualquer pessoa que seja encontrada violando direitos autorais ou quaisquer outros direitos de propriedade intelectual.
+**2.9.** Os dados oferecidos no cadastro possibilitarão que a Agrimar entre em contato com o Usuário para enviar comunicações relacionadas à sua Conta. É dever exclusivo do Usuário manter seus dados atualizados, de modo a viabilizar uma assertiva e adequada prestação dos serviços pela Agrimar ao Usuário. O Usuário está ciente que, ao aceitar os Termos de Uso do Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã, o Usuário concorda em receber ligações, e-mails, mensagens de texto (SMS), WhatsApp ou Telegram, relacionados à sua Conta, bem como para fins comerciais, de marketing, promocional e publicitário. Caso o Usuário não deseje mais receber tais comunicações, ele deverá solicitar o cancelamento por meio das Plataformas.
 
-Com exceção da seção "Conteúdo de Código Aberto e Conteúdo do Usuário" abaixo, você mantém todos os seus direitos sobre qualquer Conteúdo Gerado pelo Usuário que você envia, posta ou exibe no Serviço, e é sua responsabilidade proteger esses direitos. Não assumimos qualquer responsabilidade e, a menos que proibido por lei, renunciamos a qualquer responsabilidade pelo Conteúdo Gerado pelo Usuário postado por você ou por terceiros no Serviço. No entanto, ao postar Conteúdo Gerado pelo Usuário usando o Serviço, você nos concede um direito e licença não exclusivos, globais, livres de royalties, totalmente pagos, sublicenciáveis e transferíveis para utilizar, modificar, realizar publicamente, exibir publicamente, reproduzir e distribuir tal Conteúdo Gerado pelo Usuário no Serviço, de acordo com estes Termos e nossa Política de Privacidade. Você concorda com esta licença, que inclui o direito de disponibilizar seu Conteúdo Gerado pelo Usuário para outros usuários do Serviço, que também podem usar seu Conteúdo Gerado pelo Usuário de acordo com estes Termos.
+**2.10.** Em caso de dúvidas, o Usuário poderá consultar a Política de Privacidade da Agrimar ou enviar um e-mail para a Agrimar, conforme instruções nas Plataformas.
 
-A bohr.io possui a autoridade, mas não a obrigação, de supervisionar, editar, remover ou compartilhar Conteúdo Gerado pelo Usuário fornecido pelos usuários, sempre que acreditar de boa fé que isso seja necessário para cumprir as leis relevantes, manter a integridade, segurança e estabilidade de nosso Serviço, ou por qualquer outro motivo válido.
+## 3. FUNCIONALIDADES DO APLICATIVO IRRIFERT IRRIGAÇÃO/FERTIRRIGAÇÃO MAÇÃ
 
-Com exceção da seção "Conteúdo de Código Aberto e Conteúdo do Usuário" abaixo, é proibido distribuir, alterar, transmitir, reutilizar, fazer download, repostar, copiar ou utilizar o Conteúdo Gerado pelo Usuário mencionado acima, seja em parte ou na íntegra, para fins comerciais ou ganho pessoal, sem obtenção de autorização prévia por escrito de nossa parte.
+**3.1.** O Usuário poderá usufruir de algumas funcionalidades do Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã gratuitamente, durante um período de 30 (trinta) dias a contar da data de cadastro no Aplicativo. Ao final do período gratuito, o Usuário poderá optar pela aquisição da licença anual de uso do Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã.
 
-<!-- ## Código Aberto e Conteúdo Gerado pelo Usuário
-Quando você publica Conteúdo Gerado pelo Usuário em seções específicas do Serviço ou utiliza determinados recursos ou funcionalidades do Serviço, esse Conteúdo Gerado pelo Usuário pode automaticamente se tornar objeto de uma licença de código aberto. Termos e condições suplementares relacionados à licença de código aberto dentro dos Serviços estão disponíveis no seguinte link: https://docs.bohr.com/legal-and-security-info/licensing-info. Esses termos e condições agora estão incorporados a estes Termos por referência. -->
+**3.2.** São funcionalidades do Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã, dentre outras:
 
-<!-- ## Tokens
-Tokens, conhecidos como Cycles, são unidades virtuais sem valor monetário. Seu uso de Tokens/Cycles é regido por uma licença limitada, pessoal e revogável concedida a você pela bohr.io, sujeita aos termos e condições descritos em https://bohr.io/site/cycles-terms. Esses termos e condições estão aqui incorporados a estes Termos. -->
+    a) Cadastro de um ou mais pomares, quadras e setores de cultivo;
+    b) Obtenção de sugestões sobre o momento adequado para realizar a irrigação;
+    c) Definição do tempo necessário para aplicar a quantidade necessária de água à cultura da macieira;
+    d) Quantificação da quantidade necessária de nutrientes para cada fase do desenvolvimento vegetativo das plantas de macieira;
+    e) Seleção de fertilizantes adequados, de acordo com as necessidades estabelecidas para cada fase do desenvolvimento vegetativo das plantas de macieira;
+    f) Histórico de uso e acompanhamento de atividades realizadas;
+    g) Relatórios e estatísticas de uso;
+    h) Possibilidade de solicitar suporte técnico e operacional;
+    i) Outras funcionalidades disponibilizadas pela Agrimar, conforme atualizações e melhorias do Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã.
 
-## Mercado de Extensões
-O Mercado de Extensões oferece acesso a Repls, que aprimoram a funcionalidade de seu Espaço de Trabalho e Repls individuais. As Extensões disponíveis no Mercado são desenvolvidas pela bohr.io e por provedores de terceiros conhecidos como "Desenvolvedores". Seus direitos e uso como usuário de Extensões são complementados pelos Termos do Usuário do Mercado de Extensões da bohr.io.
+## 4. OBRIGAÇÕES DO USUÁRIO
 
-O Mercado de Extensões também permite que você crie e ofereça Extensões para uso por outros usuários. Se você é um Desenvolvedor de Extensões, seus direitos de acesso e uso são explicados mais detalhadamente nos Termos do Desenvolvedor do Mercado de Extensões da bohr.io.
+**4.1.** O Usuário obriga-se a utilizar o Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã e todos os seus conteúdos e serviços de acordo com a legislação vigente, estes Termos de Uso, os Regulamentos das Plataformas da Agrimar, a Política de Privacidade, os bons costumes e a ordem pública. O Usuário deverá abster-se de utilizar o Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã para fins ilícitos, proibidos neste Termos de Uso ou que de qualquer forma possam causar danos a direitos e interesses da Agrimar ou de terceiros, bem como praticar qualquer ato que de qualquer forma possa danificar, inutilizar, sobrecarregar ou deteriorar o Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã ou impedir a sua normal utilização.
 
-## Compras
-Se você pretende fazer uma compra ("Compra") de qualquer produto ou serviço oferecido por meio do Serviço, poderá precisar fornecer informações específicas relevantes para sua Compra, incluindo, mas não se limitando ao número do seu cartão de crédito, data de validade do cartão de crédito, endereço de cobrança, detalhes de envio e número CSC.
+**4.2.** Em decorrência do uso do Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã, o Usuário obriga-se a:
 
-Você afirma que: (i) possui a autorização legal para usar qualquer cartão de crédito(s) ou método(s) de pagamento em relação a qualquer Compra; e (ii) as informações que você fornece a nós são precisas, verdadeiras e completas.
+    a) Manter sigilo e confidencialidade de seu login e senha de acesso ao Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã;
+    b) Não violar quaisquer direitos da Agrimar, de terceiros e da legislação em vigor;
+    c) Respeitar as regras destes Termos de Uso e da Política de Privacidade do Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã;
+    d) Não utilizar o Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã para fins comerciais, salvo autorização prévia da Agrimar;
+    e) Não compartilhar sua senha de acesso ao Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã com terceiros;
+    f) Manter os dados de sua Conta atualizados;
+    g) Não fazer uso do Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã de forma abusiva, excessiva ou fraudulenta;
+    h) Notificar a Agrimar, imediatamente, em caso de uso não autorizado de sua Conta ou qualquer outra violação de segurança.
 
-Nos reservamos o direito de recusar ou cancelar seu pedido por diversos motivos, incluindo - mas não se limitando à - indisponibilidade de produtos ou serviços, imprecisões nas descrições ou preços de produtos ou serviços, erros em seu pedido, suspeitas de fraude ou transações não autorizadas/ilegais.
+## 5. PRIVACIDADE E SEGURANÇA DOS DADOS
 
-## Disponibilidade, erros e inexatidões
-Nossos produtos e serviços oferecidos no Serviço são frequentemente atualizados. No entanto, pode haver atrasos na atualização das informações no Serviço e em outras plataformas onde fazemos publicidade. Produtos ou serviços podem ser descontinuados, precificados de forma incorreta, descritos de maneira imprecisa ou indisponíveis no Serviço.
+**5.1.** A Agrimar compromete-se a proteger e preservar a privacidade e a segurança dos dados pessoais do Usuário, coletados durante o cadastro e uso do Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã, conforme disposto na Política de Privacidade da Agrimar.
 
-Não podemos garantir a precisão ou abrangência de qualquer informação encontrada no Serviço. Podemos fornecer recursos que utilizam inteligência artificial, como geração de código. Portanto, reservamos o direito de modificar ou revisar informações e corrigir erros, imprecisões ou omissões a qualquer momento, sem aviso prévio.
+**5.2.** O Usuário declara estar ciente e concordar que a Agrimar poderá coletar, armazenar, processar, compartilhar e utilizar seus dados pessoais para fins comerciais, de marketing, promocional e publicitário, conforme estabelecido na Política de Privacidade da Agrimar.
 
-## Notificações e comunicações
-Ao registrar uma conta em nosso Serviço, você reconhece que ocasionalmente podemos entrar em contato com você para fornecer notificações sobre alterações ou adições específicas ao Serviço ou em relação ao seu uso do Serviço. Quando um endereço de e-mail é necessário, você é responsável por manter seu endereço de e-mail mais atual e preciso. Nos casos em que o último endereço de e-mail fornecido a nós for inválido ou incapaz de entregar notificações necessárias, conforme estipulado nestes Termos, o envio do e-mail contendo tal aviso ainda será considerado uma comunicação eficaz. <!-- Se você precisar enviar um aviso para nós, pode nos contatar através de https://bohr.io/support. -->
+**5.3.** A Agrimar poderá compartilhar os dados pessoais do Usuário com terceiros, parceiros comerciais e fornecedores de serviços, conforme disposto na Política de Privacidade da Agrimar.
 
-## Concursos, sorteios e promoções
-Quaisquer concursos, sorteios ou outras atividades promocionais ("Promoções") oferecidas por meio do Serviço podem ser regidos por regras separadas, além destes Termos. Se você participar de qualquer Promoção, por favor, revise as regras específicas juntamente com nossa Política de Privacidade. Se as regras de uma Promoção entrarem em conflito com estes Termos, as regras da Promoção terão precedência.
+**5.4.** Em caso de dúvida sobre a coleta, uso, armazenamento, compartilhamento, segurança e controle dos dados pessoais, o Usuário deverá consultar a Política de Privacidade da Agrimar ou enviar um e-mail para a Agrimar, conforme instruções nas Plataformas.
 
-## Contas; Política de Encerramento de Conta
-A menos que você seja um usuário estudante do _Teams for Education_, você deve ter pelo menos 13 anos para usar o Serviço. No entanto, crianças de todas as idades podem utilizar o Serviço se autorizadas por um pai ou responsável legal. Se você tiver menos de 18 anos, declara que obteve permissão de um pai ou responsável legal para usar o Serviço. Encorajamos que eles leiam estes Termos junto com você.
+## 6. RESPONSABILIDADES E LIMITAÇÕES
 
-Para pais ou responsáveis legais de usuários com menos de 18 anos, permitir que seu filho use o Serviço sujeita você aos termos deste Contrato e o torna responsável pelas ações de seu filho no Serviço.
+**6.1.** A Agrimar não será responsável por quaisquer danos diretos, indiretos, incidentais, especiais, consequenciais ou punitivos, incluindo, mas não se limitando a, perda de lucros, perda de dados, interrupção de negócios ou danos causados por uso indevido, uso não autorizado ou falha na utilização do Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã.
 
-Ao criar uma conta conosco, você garante que as informações fornecidas são precisas, completas e atualizadas em todos os momentos. Não fornecer informações precisas, completas ou atualizadas pode levar ao encerramento imediato de sua conta.
+**6.2.** A Agrimar não será responsável por qualquer falha, interrupção, erro ou indisponibilidade do Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã, bem como por qualquer perda ou dano decorrente de tais falhas, interrupções, erros ou indisponibilidades.
 
-Proteger a confidencialidade de sua conta e senha é sua responsabilidade, incluindo restringir o acesso ao seu computador e/ou conta. Você concorda em assumir a responsabilidade por qualquer atividade ou ação que ocorra em sua conta e/ou senha, seja por meio de nosso Serviço ou de uma plataforma de terceiros. Informe-nos imediatamente se você suspeitar de qualquer violação de segurança ou uso não autorizado de sua conta.
+**6.3.** A Agrimar não será responsável por quaisquer danos, perdas ou prejuízos causados ao Usuário ou a terceiros, em decorrência do uso do Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã em desconformidade com estes Termos de Uso, Regulamentos das Plataformas da Agrimar, Política de Privacidade, legislação vigente, bons costumes e ordem pública.
 
-Seu nome de usuário não deve infringir os direitos de terceiros, utilizar um nome ou marca que esteja legalmente indisponível ou empregar um nome que pertença a outra pessoa ou entidade sem autorização adequada. Nomes de usuário ofensivos, vulgares ou obscenos são proibidos.
-  
-A bohr.io pode encerrar o acesso de um usuário ao Serviço se o usuário for considerado um infrator repetido de nossa Política de Direitos Autorais abaixo ou se a bohr.io, a seu exclusivo critério, determinar que um usuário violou ou infringiu estes Termos. No caso de a bohr.io, a seu exclusivo critério, concluir que um usuário ou Conteúdo do Usuário viola estes Termos por qualquer motivo, a bohr.io reserva o direito de remover tal Conteúdo do Usuário e/ou encerrar a conta do usuário sem aviso prévio. Além disso, reservamos o direito, a nosso exclusivo critério, de recusar serviço, encerrar, recuperar ou reutilizar contas, editar ou excluir conteúdo ou cancelar pedidos. 
+**6.4.** A Agrimar reserva-se o direito de modificar, suspender ou descontinuar o Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã, a qualquer momento, sem necessidade de notificação prévia ao Usuário.
 
-## Política de Direitos Autorais
-Respeitamos os direitos dos detentores de propriedade intelectual e estabelecemos uma política para tratar de quaisquer alegações de violação de direitos autorais ou outra infração de propriedade intelectual ("Infringimento") decorrente de Conteúdo do Usuário postado no Serviço.
+**6.5.** O Usuário concorda em defender, indenizar e isentar a Agrimar de qualquer responsabilidade por perdas, danos, custos e despesas, incluindo honorários advocatícios, decorrentes de qualquer violação destes Termos de Uso, Política de Privacidade ou qualquer lei aplicável, bem como de qualquer uso não autorizado do Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã.
 
-<!-- Se você é um proprietário de direitos autorais ou age em nome de um, e acredita que uma obra protegida por direitos autorais foi reproduzida de maneira que constitui violação de direitos autorais, apresente sua reclamação por e-mail em https://bohr.io/support. Use "Violação de Direitos Autorais" como assunto e forneça um relato abrangente do suposto Infringimento, conforme detalhado abaixo em "Aviso DMCA e Procedimento para Reivindicações de Violação de Direitos Autorais". -->
+## 7. DISPOSIÇÕES GERAIS
 
-Apresentar uma reclamação que deturpe ou acuse falsamente o Conteúdo do Usuário no Serviço de violação de direitos autorais pode torná-lo responsável por danos, incluindo custos e honorários advocatícios.
+**7.1.** Estes Termos de Uso constituem o acordo integral entre o Usuário e a Agrimar, prevalecendo sobre qualquer outro acordo ou entendimento anterior, verbal ou escrito, relacionado ao uso do Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã.
 
-## Indenização
-Você concorda em proteger, indenizar e isentar a bohr.io e seus licenciados, licenciantes, funcionários, contratados, agentes, diretores e diretores de todas as reivindicações, danos, obrigações, perdas, responsabilidades, dívidas e despesas (incluindo honorários advocatícios) decorrentes de a) seu uso e acesso ao Serviço, seja por você ou por qualquer pessoa usando sua conta e senha; b) violação destes Termos; ou c) Conteúdo postado no Serviço.
+**7.2.** Caso qualquer disposição destes Termos de Uso seja considerada inválida ou inexequível, as demais disposições permanecerão em pleno vigor e efeito.
 
-## Aviso DMCA e procedimento para reivindicações de violação de direitos autorais
-Você tem a opção de apresentar uma notificação de acordo com o Digital Millennium Copyright Act (DMCA) fornecendo ao nosso Agente de Direitos Autorais as seguintes informações por escrito (consulte o 17 U.S.C 512(c)(3) para mais detalhes):
+**7.3.** A Agrimar poderá ceder ou transferir seus direitos e obrigações decorrentes destes Termos de Uso a qualquer momento, sem necessidade de notificação prévia ao Usuário.
 
-- Assinatura eletrônica ou física de um representante autorizado do detentor dos direitos autorais;
-- Uma descrição da obra protegida por direitos autorais alegadamente violada, incluindo o URL (endereço da página da web) onde a obra protegida por direitos autorais está acessível ou uma cópia da obra protegida por direitos autorais;
-- Identificação do URL preciso ou de outra localização específica no Serviço onde o material supostamente infrator está situado;
-- Seu endereço de correspondência, número de telefone e endereço de e-mail;
-- Uma declaração sua, sob pena de perjúrio, afirmando sua crença de boa-fé de que o uso contestado não é autorizado pelo detentor dos direitos autorais, seu representante ou pela lei;
-- Uma declaração sua, sob pena de perjúrio, afirmando a precisão das informações em seu aviso e seu status como detentor dos direitos autorais ou representante autorizado.
+**7.4.** O Usuário não poderá ceder ou transferir seus direitos e obrigações decorrentes destes Termos de Uso sem o consentimento prévio por escrito da Agrimar.
 
-<!-- Nosso Agente de Direitos Autorais pode ser contatado por e-mail em: dmca@bohr.io, ou por correio em 548 Market St PMB 91990, San Francisco, California 94104-5401. -->
+**7.5.** Estes Termos de Uso serão regidos e interpretados de acordo com as leis brasileiras. Qualquer controvérsia ou disputa decorrente destes Termos de Uso será submetida à jurisdição exclusiva dos tribunais da Comarca de Caxias do Sul, Rio Grande do Sul, Brasil.
 
-## Propriedade Intelectual
-O Serviço, juntamente com seu conteúdo original (excluindo Conteúdo do Usuário contribuído por usuários), recursos e funcionalidades, incluindo todos os direitos de propriedade intelectual associados, são e permanecerão exclusivamente de propriedade da bohr.io e de seus licenciadores. O Serviço é protegido por direitos autorais, marcas registradas e outras leis tanto dos Estados Unidos quanto de jurisdições estrangeiras. O uso de nossas marcas registradas e vestimenta comercial em conexão com qualquer produto ou serviço requer o consentimento prévio por escrito da bohr.io. 
+**7.6.** O Usuário declara ter lido, entendido e estar de acordo com estes Termos de Uso, comprometendo-se a cumpri-los integralmente.
 
-## Links para sites de terceiros, anúncios e serviços
-Nosso Serviço pode incluir links para sites de terceiros, anúncios ou serviços que não são de propriedade ou controlados pela bohr.io. Esses links podem aparecer junto com seu Conteúdo do Usuário ou estar relacionados a recursos do Serviço.
+## 8. CONTATO
 
-A bohr.io não exerce controle sobre, e na medida máxima permitida pela lei, não assume responsabilidade pelo conteúdo, políticas de privacidade ou práticas de quaisquer sites ou serviços de terceiros. Não endossamos as ofertas dessas entidades ou indivíduos, nem seus sites.
+**8.1.** Para dúvidas, sugestões ou reclamações relacionadas ao Aplicativo IRRIFERT Irrigação/Fertirrigação Maçã ou a estes Termos de Uso, o Usuário poderá entrar em contato com a Agrimar por meio das Plataformas ou enviar um e-mail para contato@agrimar.com.br.
 
-Você reconhece e aceita que a bohr.io não pode e não irá revisar, censurar, endossar ou alterar o conteúdo de qualquer site, serviço ou anúncio de terceiros. Quaisquer links para tais sites de terceiros, serviços ou anúncios fornecidos no Serviço são apenas para fins informativos e de conveniência. Você reconhece ainda e concorda que o uso de quaisquer sites, serviços e/ou anúncios de terceiros é inteiramente por sua conta e risco, e que é aconselhável exercer a devida cautela e discrição ao acessar tais links de terceiros.
+**8.2.** Estes Termos de Uso estão disponíveis para consulta nas Plataformas da Agrimar.
 
-Ao clicar em qualquer link de terceiros, os termos e políticas do terceiro respectivo se aplicam, substituindo estes Termos. Na medida máxima permitida pela lei, ao usar o Serviço, você libera a bohr.io de qualquer responsabilidade decorrente do uso de qualquer site, serviços ou anúncios de terceiros, e/ou do uso ou acesso a qualquer conteúdo de terceiros disponibilizado por meio do Serviço, incluindo Conteúdo do Usuário acessível ou obtido por meio de interações com outros usuários do Serviço.
-
-Você também reconhece e concorda que, na medida máxima permitida pela lei, a bohr.io não será responsável, direta ou indiretamente, por qualquer dano ou perda supostamente causado ou relacionado ao uso ou à dependência de tal conteúdo, produtos ou serviços disponíveis em ou por meio de quaisquer sites ou serviços de terceiros.
-
-### Encerramento
-Sua conta pode ser encerrada ou suspensa, e o acesso ao Serviço revogado, imediatamente e a nosso exclusivo critério, sem aviso prévio ou responsabilidade, por qualquer motivo, incluindo - mas não se limitando à - violação destes Termos.
-
-Caso deseje encerrar sua conta, visite a sua página de configurações de conta e selecione a opção "Deletar Conta".
-
-Todas as disposições destes Termos que, por sua natureza, devem sobreviver ao término, permanecerão em vigor. Isso inclui - mas não se limita a - disposições de propriedade, exclusões de garantia, indenização e limitações de responsabilidade.
-
-
-
+**Data de atualização: 28 de julho de 2024**
