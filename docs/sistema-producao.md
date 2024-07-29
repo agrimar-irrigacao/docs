@@ -70,7 +70,7 @@ Para o cadastro de setor no **Irrifert Irrigação/Fertirrigação Maçã**, sig
 
 Após preencher todos os campos, clique no botão **REGISTRAR**. É possível incluir mais de um setor por quadra ao mesmo tempo clicando em "NOVO SETOR" e utilizar as opções **ALTERAR** e **EXCLUIR** para gerenciar os setores cadastrados.
 
-Para visualizar ou **ALTERAR** os dados de um setor, basta navegar até a listagem de setors e clicar no nome do setor que deseja visualizar ou **ALTERAR**. Depois é possível alterar os campos desejados e clicar no botão **ATUALIZAR**
+Para visualizar ou **ALTERAR** os dados de um setor, basta navegar até a listagem de setores e clicar no nome do setor que deseja visualizar ou **ALTERAR**. Depois é possível alterar os campos desejados e clicar no botão **ATUALIZAR**
 
 ![Dados de Setor](https://github.com/user-attachments/assets/8c841b87-cf29-4302-bb75-7099ade3b3f1)
 
