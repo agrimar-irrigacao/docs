@@ -6,7 +6,7 @@ sidebar_position: 1
 
 <!-- <div style={{textAlign: 'center'}}><iframe width="560" height="315" src="https://www.youtube.com/embed/yKNBdCSvUgk" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen style={{ maxWidth: '100%' }}></iframe></div> -->
 
-Para facilitar o manejo da irrigação/fertirrigação por gotejamento em pomares de macieira, a Embrapa Uva e Vinho, em parceria com a empresa Agrimar, disponibilizaram um aplicativo denominado **“AGRO VISION Irrigação/Fertirrigação Maçã”**
+Para facilitar o manejo da irrigação/fertirrigação por gotejamento em pomares de macieira, a Embrapa Uva e Vinho, em parceria com a empresa Agrimar, disponibilizaram um aplicativo denominado **“IRRIFERT Irrigação/Fertirrigação Maçã”**
 
 Este aplicativo, desenvolvido para a Web e para smartphones com sistema operacional Android, utiliza informações do sistema de irrigação, tipo de solo, leituras dos tensiômetros, tipo de manejo do pomar, idade do pomar, cultivar e porta-enxerto utilizado para definir o momento e a duração da irrigação necessária. Além disso, o aplicativo calcula as quantidades de nutrientes e a seleção de fertilizantes de acordo com as necessidades estabelecidas para cada fase do desenvolvimento vegetativo das plantas de macieira.
 
